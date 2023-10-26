@@ -1,0 +1,36 @@
+.form-foto {
+<<<<<<< HEAD
+    position: relative;
+    display: inline-block;
+  }
+  
+  .form-foto img {
+    max-width: 200px;
+    height: auto;
+  }
+  
+  .form-foto .btn-secondary {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 10px;
+  }
+=======
+  position: relative;
+  display: inline-block;
+}
+
+.form-foto img {
+  max-width: 500;
+  height: auto;
+}
+
+.form-foto .btn-secondary {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 10px;
+}
+>>>>>>> 3a32008f6dbdccb0c87686bdc87794b6da033cc6
